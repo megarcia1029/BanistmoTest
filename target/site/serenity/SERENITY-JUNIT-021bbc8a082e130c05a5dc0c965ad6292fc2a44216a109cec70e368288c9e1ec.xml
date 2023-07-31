@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Navegacion PDF" skipped="0" tests="1" time="2.26" timestamp="2023-07-29 06:23:11"><testcase name="Verificacion de PDF"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver&#13;
+test.Banistmo.task.OpenUp.performAs(OpenUp.java:18)&#13;
+test.AutomatizacionBanistmo.stepdefinitions.DescargarDocumento.usuarioConsultaDocumentos(DescargarDocumento.java:19)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)&#13;
+worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)&#13;
+</system-err></testcase></testsuite>
